@@ -39,11 +39,5 @@
     "eslint": "7.32.0",
     "eslint-config-next": "11.1.2",
     "prisma": "^3.3.0"
-    {
-  "name": "myapp",
-  "description": "a really cool app",
-  "version": "1.0.0",
-  "engines": {
-    "node": "6.11.1"
   }
 }
